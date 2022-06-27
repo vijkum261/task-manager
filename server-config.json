@@ -1,0 +1,4 @@
+{
+  "server.http.port": 8080,
+  "data.location": "/tmp/tasks"
+}
